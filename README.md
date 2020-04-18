@@ -18,3 +18,4 @@ A top-down RPG using Python and Pygame
   - [ ] Keyboard or game controller or both?
     - [ ] Keyboard
     - [ ] Gamepad
+- [ ] Music and Sounds
