@@ -6,7 +6,7 @@ A top-down RPG using Python and Pygame
 ## ToDo
 - [ ] Determine Python version (3.7.5 or 3.8.2)
 - [ ] Determine PyGame version (1.9.6 or 2.0.0.dev6)
-- [ ] Determine Dungeons and Dragons ruleset (3.5 edition or 5th edition)
+- [ ] Determine Dungeons and Dragons ruleset (3.5 edition ([3.5 SRD PDF](http://www.easydamus.com/D&D_Compendium_and_House_Rules.pdf))or 5th edition)
 - [ ] Develop backend machanics
   - [ ] Character creation
   - [ ] Monster statistics
