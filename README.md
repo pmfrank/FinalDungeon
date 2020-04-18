@@ -13,6 +13,14 @@ A top-down RPG using Python and Pygame
   - [ ] Combat System
   - [ ] Leveling System
   - [ ] Magic System
+- [ ] Quest
+- [ ] Side quest
+- [ ] NPC
+  - [ ] Non-essential
+  - [ ] Quest givers
+  - [ ] Quest recievers
+  - [ ] Merchants
+  - [ ] Essential
 - [ ] Graphics and controls
   - [ ] Sprite creation or selection (Artist or [OpenGameArt.org](https://opengameart.org)
   - [ ] Keyboard or game controller or both?
