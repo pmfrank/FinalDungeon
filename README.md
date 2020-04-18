@@ -1,6 +1,8 @@
 # FinalDungeon
 A top-down RPG using Python and Pygame
 
+## [Jira Board](https://finaldungeon.atlassian.net/)
+
 ## ToDo
 - [ ] Determine Python version (3.7.5 or 3.8.2)
 - [ ] Determine PyGame version (1.9.6 or 2.0.0.dev6)
