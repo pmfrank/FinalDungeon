@@ -14,7 +14,7 @@ A top-down RPG using Python and Pygame
   - [ ] Leveling System
   - [ ] Magic System
 - [ ] Graphics and controls
-  - [ ] Sprite creation or selection (Artist or OpenGameArt.com)
+  - [ ] Sprite creation or selection (Artist or [OpenGameArt.org](https://opengameart.org)
   - [ ] Keyboard or game controller or both?
     - [ ] Keyboard
     - [ ] Gamepad
