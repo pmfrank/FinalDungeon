@@ -1,5 +1,5 @@
 from __future__ import division
-# from itertools import izip
+from itertools import izip
 import math, random, copy, sys
 import pygame as pg
 from .. import setup, observer

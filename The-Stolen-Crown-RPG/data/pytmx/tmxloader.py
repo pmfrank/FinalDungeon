@@ -113,7 +113,7 @@ def _load_images_pygame(tmxdata, mapping, *args, **kwargs):
             force_colorkey = pygame.Color(*force_colorkey)
         except:
             msg = 'Cannot understand color: {0}'
-            print(msg.format(force_colorkey))
+            print msg.format(force_colorkey)
             raise ValueError
 
     # change background color into something nice
